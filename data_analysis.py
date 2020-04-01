@@ -21,7 +21,7 @@ House_price/data_analysis.py /
 Code navigation is available!
 Navigate your code with ease. Click on function and method calls to jump to their definitions or references in the same repository. Learn more
 
-#-*- coding:utf-8 -*-
+#-*- coding:utf-8 -*-#
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
